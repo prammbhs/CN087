@@ -80,11 +80,12 @@
         <img src="l1.png" alt="logo">
     </header>
     <main>
-        <form action="/submit-signup" method="post">
+        <form action="process-signup.php" method="post">
             <h2>Sign Up</h2>
             <input type="text" name="name" placeholder="Name" required>
             <input type="email" name="email" placeholder="Email" required>
             <input type="password" name="password" placeholder="Password" required>
+            <input type="password" name="confirmPassword" placeholder="Confirm Password" required>
             <span>
             <input type="checkbox" name="terms" required> I agree to the terms and conditions</span>
             <button type="submit">Sign Up</button>
