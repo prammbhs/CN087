@@ -39,6 +39,7 @@ header{
     height: 10vh;
     width: auto;
     max-width: 100%;
+    padding-left: 5vb;
 }
 .navbar{
     display: flex;
