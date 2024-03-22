@@ -220,3 +220,8 @@ header.sticky{
     display: flex;
     flex-direction: row;
 }
+.coursecontainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10vb;
+}
