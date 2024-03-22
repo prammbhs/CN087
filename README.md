@@ -1,5 +1,5 @@
-Learnify-by-Bits-Bandits
+Team Code- CN087
+Problem Code- WD211
+Problem Statement-
+In today's digital era, there is a growing demand for accessible and effective online learning platforms that cater to diverse learning styles and preferences. However, many existing platforms lack comprehensive features for interactive learning, progress tracking, and certification management. Your task is to develop an online learning platform that offers a rich learning experience through interactive quizzes, video lectures, progress tracking, and certification management to empower learners in achieving their educational goals.
 
-This repository contains the source code for Learnify, and we invite you to join us in our journey to make learning more interactive, enjoyable, and impactful. Feel free to explore, contribute, and collaborate with us as we continue to evolve and expand Learnify into a premier destination for online education.
-
-Thank you for choosing Learnify. Let's learn, grow, and succeed together!
