@@ -36,8 +36,8 @@ header{
     transition: all .40s ease;
 }
 .logo img{
-    height: 68px;
-    width: 285px;
+    height: 10vh;
+    width: auto;
     max-width: 100%;
 }
 .navbar{
